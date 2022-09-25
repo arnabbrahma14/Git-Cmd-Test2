@@ -1,0 +1,6 @@
+git init
+git add .
+git commit  -m "New Changes"
+git branch  -M main
+git remote add origin "http://git.url"
+git push -u origin main 
